@@ -44,6 +44,7 @@ I'm a software engineer who likes building complete products: the database, the 
 
 | Project | What it is | Stack | Demo |
 | --- | --- | --- | --- |
+| [**feral-tide**](https://github.com/arifaydin12/feral-tide) | Flagship top-down action/stealth campaign: Port Calla to Saint Marrow, Savagery tiers, five endings | Canvas 2D, vanilla JS | [Play](https://arifaydin12.github.io/feral-tide/) |
 | [**medieval-quest-rpg**](https://github.com/arifaydin12/medieval-quest-rpg) | Browser RPG with quests, combat, crafting and saves | Vanilla JS | [Play](https://arifaydin12.github.io/medieval-quest-rpg/) |
 | [**quiz-master-pro**](https://github.com/arifaydin12/quiz-master-pro) | Trivia game with three modes, lifelines and stats | Vanilla JS, OpenTDB | [Play](https://arifaydin12.github.io/quiz-master-pro/) |
 | [**english-assessment**](https://github.com/arifaydin12/english-assessment) | Adaptive CEFR placement test with 100+ questions | Vanilla JS | [Take the test](https://arifaydin12.github.io/english-assessment/) |
